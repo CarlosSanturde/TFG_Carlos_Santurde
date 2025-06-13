@@ -1,20 +1,30 @@
-# TFG_Carlos_Santurde
-En este repositorio de Github se encuentran los diferentes programas utilizados a lo largo del Trabajo de Fin de Grado. 
-En la carpeta Imagenes_Pruebas estan todas las fíguras utilizadas en los distintos casos de ejecucíon donde podemos probar con cada una de ellas.
-En la carpeta qseg estan todas las funciones externas utilizadas para la segmentación de las imágenes.
-En la carpeta Otras_Pruebas se recogen todas las demás pruebas realizadas en el TFG, tanto otros métodos de aplicación fallidos como pruebas que nos han hecho llegar a la solución  adecuada.
 
-En el código Segmentacion_QCI.ipynb se encuentra la ejecución principal del TFG donde segmentamos una imagen con el ordenador cuantico de QCI.
-En el código Segmentacion_SIMULADOR_D-Wave.ipynb se encuentran las pruebas realizadas con el simulador de D-Wave.
+  # 🧠 TFG_Carlos_Santurde
 
+En este repositorio de GitHub se encuentran los diferentes programas utilizados a lo largo del **Trabajo de Fin de Grado (TFG)**.
 
-Autor
-Carlos Santurde carlos.santurde@estudiante.uam.es
+## 📁 Estructura del repositorio
 
+- **`Imagenes_Pruebas/`**: Contiene todas las **figuras utilizadas** en los distintos casos de ejecución. Podemos probar con cada una de ellas.
+- **`qseg/`**: Incluye todas las **funciones externas** utilizadas para la segmentación de imágenes.
+- **`Otras_Pruebas/`**: Reúne **otras pruebas realizadas** en el TFG, incluyendo métodos fallidos y experimentos que contribuyeron a encontrar la solución adecuada.
 
-Instalación:
-Crear un entorno virtual en  https://www.anaconda.com/products/navigator
+## 🧪 Ejecuciones principales
 
-Tener un token en QCI https://quantumcomputinginc.com/
+- **`Segmentacion_QCI.ipynb`**: Ejecución principal del TFG, donde se **segmenta una imagen usando el ordenador cuántico de QCI**.
+- **`Segmentacion_SIMULADOR_D-Wave.ipynb`**: Contiene las **pruebas realizadas con el simulador de D-Wave**.
 
-  pip install -r requirements.txt
+## 👤 Autor
+
+**Carlos Santurde**  
+📧 [carlos.santurde@estudiante.uam.es](mailto:carlos.santurde@estudiante.uam.es)
+
+## ⚙️ Instalación
+
+1. Crear un entorno virtual con [Anaconda Navigator](https://www.anaconda.com/products/navigator).
+2. Obtener un **token de acceso** en [Quantum Computing Inc. (QCI)](https://quantumcomputinginc.com/).
+3. instalar dependencias pip install -r requirements.txt.
+---
+
+¡Gracias por visitar el repositorio!
+

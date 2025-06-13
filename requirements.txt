@@ -3,3 +3,4 @@ matplotlib
 networkx
 opencv-python
 scipy
+qci-client

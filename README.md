@@ -1,5 +1,6 @@
 # TFG_Carlos_Santurde
-En este repositorio se encuentra todo el código necesario para ejecutar el TFG.
+En este repositorio de Github se encuentran los diferentes programas utilizados a lo largo del Trabajo de Fin de Grado. 
+En la carpeta desarrollo se encuentran aquellos programas utilizados en el capítulo 5 del TFG. En la carpeta Cod_Pruebas aquellos utilizados en el capítulo 6 del TFG.
 
 Autor
 Carlos Santurde carlos.santurde@estudiante.uam.es
